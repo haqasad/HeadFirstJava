@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98fa2862-698e-488a-b5dd-3ef35d5fd09e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/BeatBoxFinal$MyDownTempoListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/BeatBoxFinal$MyListSelectionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/BeatBoxFinal$MySendListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/BeatBoxFinal$MyStartListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/BeatBoxFinal$MyStopListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/BeatBoxFinal$MyUpTempoListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/BeatBoxFinal$RemoteReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/BeatBoxFinal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/MusicServer$ClientHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/MusicServer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap01/BeerSong.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap01/PhraseOMatic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap02/GameLauncher.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap02/GuessGame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap02/Player.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap03/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap04/Foo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap04/GoodDog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap04/GoodDogTestDrive.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap04/PoorDog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap04/PoorDogTestDrive.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap05/Game.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap05/GameHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap05/SimpleDotCom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap05/SimpleDotComTester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap06/DotCom.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap06/DotComBust.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap07/Boat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap07/Rowboat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap07/Sailboat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap07/TestBoat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap08/Acts.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap08/Clowns.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap08/Nose.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap08/Of76.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap08/Picasso.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap09/RetentionBot.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap09/SimUnit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap09/TestLifeSupportSim.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap09/V2Radiator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap09/V3Radiator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/FullMoons.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/MiniMiniMusicApp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/MiniMiniMusicCmdLine.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/Animate$MyDrawP.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/Animate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/MiniMusicPlayer3$MyDrawPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/MiniMusicPlayer3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/MyDrawPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/SimpleAnimation$MyDrawPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/SimpleAnimation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/TwoButtons$ColorButtonListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/TwoButtons$LabelButtonListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/TwoButtons.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/BeatBox$MyDownTempoListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/BeatBox$MyStartListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/BeatBox$MyStopListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/BeatBox$MyUpTempoListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/BeatBox.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/BeatBoxSaveOnly$MyDownTempoListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/BeatBoxSaveOnly$MyReadInListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/BeatBoxSaveOnly$MySendListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/BeatBoxSaveOnly$MyStartListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/BeatBoxSaveOnly$MyStopListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/BeatBoxSaveOnly$MyUpTempoListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/BeatBoxSaveOnly.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/DungeonGame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/DungeonTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/GameCharacter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/GameSaverTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCard.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCardBuilder$NewMenuListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCardBuilder$NextCardListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCardBuilder$SaveMenuListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCardBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCardReader$NextCardListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCardReader$OpenMenuListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCardReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/BankAccount.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/DailyAdviceClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/DailyAdviceServer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/MyRunnable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/RunThreads.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/RyanAndMonicaJob.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/SimpleChatClient$IncomingReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/SimpleChatClient$SendButtonListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/SimpleChatClient.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/SimpleChatClientA$SendButtonListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/SimpleChatClientA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/VerySimpleChatServer$ClientHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/VerySimpleChatServer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox5$ArtistCompare.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Song.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/DayOfTheWeekService$DoItListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/DayOfTheWeekService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/DiceService$RollEmListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/DiceService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/KathyServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/MiniMusicService$MyDrawPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/MiniMusicService$PlayItListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/MiniMusicService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/PhraseOMatic2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/Service.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/ServiceBrowser$MyListListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/ServiceBrowser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/ServiceServer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/ServiceServerImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/BeatBoxFinal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppendixA/MusicServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HeadFirstJava.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap01/BeerSong.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap01/PhraseOMatic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap02/GameLauncher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap02/GuessGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap02/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap03/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap04/Foo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap04/GoodDogTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap04/PoorDogTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap05/Game.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap05/GameHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap05/SimpleDotCom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap05/SimpleDotComTester.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap06/DotCom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap06/DotComBust.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap07/TestBoat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap08/Of76.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap09/TestLifeSupportSim.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/FullMoons.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/MiniMiniMusicApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/MiniMiniMusicCmdLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/Animate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/MiniMusicPlayer3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/SimpleAnimation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/TwoButtons.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/BeatBox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/BeatBoxSaveOnly.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/DungeonTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/GameCharacter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/GameSaverTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCardBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap14/QuizCardReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/DailyAdviceClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/DailyAdviceServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/MyRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/RunThreads.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/RyanAndMonicaJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/SimpleChatClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/SimpleChatClientA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/VerySimpleChatServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Jukebox8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/Song.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/DayOfTheWeekService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/DiceService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/KathyServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/MiniMusicService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/PhraseOMatic2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/Service.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/ServiceBrowser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/ServiceServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap18/ServiceServerImpl.java" />
+    </list>
+    <ignored path="HeadFirstJava.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HeadFirstJava" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="194" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeadFirstJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeadFirstJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeadFirstJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fa2862-698e-488a-b5dd-3ef35d5fd09e" name="Default" comment="" />
+      <created>1464845228464</created>
+      <option name="number" value="Default" />
+      <updated>1464845228464</updated>
+      <workItem from="1464845230425" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="194" y="0" width="1400" height="820" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
